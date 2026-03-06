@@ -1,0 +1,23 @@
+# AI Framework & Orchestration
+langchain-core
+langchain-huggingface
+langchain-community
+
+# Model Providers
+groq
+huggingface-hub
+
+# API & Backend
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# Frontend & UI
+streamlit
+requests
+
+# Data & Vector Stores
+faiss-cpu
+sentence-transformers
+torch
